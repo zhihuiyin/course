@@ -33,6 +33,8 @@ GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、�
 
 前端技能汇总：https://github.com/JacksonTian/fks
 
+前端小智：https://github.com/qq449245884/xiaozhi
+
 腾讯移动 Web 前端知识库：https://github.com/AlloyTeam/Mars
 
 前端进阶系列：https://github.com/yygmind/blog
