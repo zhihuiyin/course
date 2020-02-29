@@ -21,6 +21,31 @@ node.js中文资料导航：https://github.com/youyudehexie/node123
 
 
 
+electron：
+
+一个基于 electron 的音乐软件：https://github.com/lyswhut/lx-music-desktop
+
+钉钉桌面版，基于electron和钉钉网页版开发：https://github.com/nashaofu/dingtalk
+
+
+
+
+python：
+
+有趣的小例子：https://github.com/jackzhenguo/python-small-examples
+
+网络爬虫：https://github.com/librauee/Reptile
+
+爬虫集合：https://github.com/facert/awesome-spider
+
+
+
+算法：
+
+https://github.com/labuladong/fucking-algorithm
+
+
+
 复合资料：
 
 GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等） ：https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
@@ -56,6 +81,8 @@ Github个人收集的优秀JavaScript项目：https://github.com/Daiyichen/Front
 国内知名 IT 公司前端团队：https://github.com/mdluo/awesome-fe-team
 
 前端开发相关的优秀网站、博客、以及活跃开发者：https://github.com/foru17/front-end-collect
+
+互联网一线大厂面试学习指南：https://github.com/AobingJava/JavaFamily
 
 
 其他杂集：
